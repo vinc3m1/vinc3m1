@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vinc3m1&theme=jolly&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vinc3m1&show_icons=true&theme=dark)
 
 <!--
 - 🔭 I’m currently working on ...
